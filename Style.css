@@ -54,13 +54,13 @@ img:hover {
 
 @media screen and (min-width: 772px) {
   div.preview {
-    width: 48%;
+    width: 100%;
   }
 }
 
 @media screen and (min-width: 998px) {
   div.preview {
-    width: 31%;
+    width: 100%;
   }
 }
 
